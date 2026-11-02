@@ -39,4 +39,4 @@ public class RestaurantMenu {
 
         scanner.close();
     }
-}5
+}
